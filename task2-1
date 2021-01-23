@@ -1,0 +1,4 @@
+firstname = "Mikhail"
+lastname = "Miadouski"
+age = 31
+print("Privet, menia zovyt " + firstname + " " +  lastname + ", mne " + str(age) + " god")
